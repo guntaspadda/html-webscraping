@@ -1,2 +1,2 @@
 # html-webscraping-challenge
-Repo for data bootcamp module 11 assignment
+Used Python, HTML, CSS to scrape data off of webpage
